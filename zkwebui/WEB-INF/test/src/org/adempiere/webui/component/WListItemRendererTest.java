@@ -96,7 +96,7 @@ class WListItemRendererTest extends CommonUnitTestSetup {
         fail("Not yet implemented");
 
     }
-
+    @Disabled
     @Test
     final void testUpdateColumn() {
 
@@ -121,6 +121,7 @@ class WListItemRendererTest extends CommonUnitTestSetup {
 
     }
 
+    @Disabled
     @Test
     final void testRenderListHead() {
 
